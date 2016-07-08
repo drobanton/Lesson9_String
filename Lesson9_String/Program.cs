@@ -14,6 +14,11 @@ namespace Lesson9_String
             string newString=oldString.Replace("Nikolay", "Oleg");
             Console.WriteLine(newString);
 
+            string oldText = "Сегодня мы с вами рассмотрели, как работать со строками в Си - шарп.Были описаны основные операторы и методы, которые используются для работы со строками";
+            int start = oldText.IndexOf("Были");
+            string newText = oldText.Substring(start, oldText.IndexOf(", которые")-start);
+            Console.WriteLine(newText);
+
             Console.ReadKey();
         }
     }
