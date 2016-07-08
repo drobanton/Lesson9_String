@@ -18,6 +18,15 @@ namespace Lesson9_String
             int start = oldText.IndexOf("Были");
             string newText = oldText.Substring(start, oldText.IndexOf(", которые")-start);
             Console.WriteLine(newText);
+            
+            string login = "Login1, LOgin2, login3, loGin4";
+            login = login.Replace(" ","");
+            string[] array = login.Split(',');
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i]=array[i].ToLower();
+                Console.WriteLine(array[i]);
+            }
 
             Console.ReadKey();
         }
