@@ -1,1 +1,6 @@
 C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\bin\Debug\Lesson9_String.exe.config
+C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\bin\Debug\Lesson9_String.exe
+C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\bin\Debug\Lesson9_String.pdb
+C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\obj\Debug\Lesson9_String.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\obj\Debug\Lesson9_String.exe
+C:\Users\Антон\Desktop\Projects\Lesson9_String\Lesson9_String\obj\Debug\Lesson9_String.pdb

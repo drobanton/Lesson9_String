@@ -10,6 +10,11 @@ namespace Lesson9_String
     {
         static void Main(string[] args)
         {
+            string oldString = "Nikolay Oleg";
+            string newString=oldString.Replace("Nikolay", "Oleg");
+            Console.WriteLine(newString);
+
+            Console.ReadKey();
         }
     }
 }
